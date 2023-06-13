@@ -3,10 +3,9 @@
  [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=alirezaahmaddii&langs_count=5&theme=tokyonight)]()
 
 ### 🌐 What things do I know?
-|                                                        Technology Icon                                                        | Technology Name |
-| :---------------------------------------------------------------------------------------------------------------------------: | :-------------: |
-| <img height="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png"> |      HTML       |
-| <img height="50" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png"> |       CSS       |
+|                                                        Technology Icon                                                        | Technology Name |                                                      Technology Icon                                                        | Technology Name |
+| :---------------------------------------------------------------------------------------------------------------------------: | :-------------: || :---------------------------------------------------------------------------------------------------------------------------: | :-------------: |
+| <img height="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png"> |      HTML       |  <img height="50" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png"> |       CSS       |
 | <img height="50" src="https://user-images.githubusercontent.com/25181517/192158956-48192682-23d5-4bfc-9dfb-6511ade346bc.png"> |      Sass       |
 | <img height="50" src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png"> |    Bootstrap    |
 | <img height="50" src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png"> |   Tailwind CSS  |
